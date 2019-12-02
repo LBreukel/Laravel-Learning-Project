@@ -1,0 +1,7 @@
+name: mvc_project
+recipe: laravel
+config:
+  webroot: public
+services:
+  my-service:
+    type: phpmyadmin

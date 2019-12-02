@@ -1,0 +1,22 @@
+#top {
+    margin-left:25%;
+    width: 50%;
+    text-align: center;
+    display: inline-block;
+}
+
+#horse_a {
+    width: 45%;
+    background: red;
+    padding: 30px;
+    text-align: center;
+    display: inline-block;
+}
+
+#horse_b {
+    width: 45%;
+    background: red;
+    padding: 30px;
+    text-align: center;
+    display: inline-block;
+}
